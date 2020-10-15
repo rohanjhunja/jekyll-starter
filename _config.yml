@@ -1,8 +1,8 @@
-title: Gyan Lakhwani
-author: Gyan Lakhwani
-email: hello@gyanl.com
+title: Studio Jambhli
+author: Rohan Jhunja
+email: mjhunja@hotmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Made with <3 in Mumbai, India
+  Made with <3 in Pune, Maharashtra
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,14 +15,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: gyanl
-    github:  gyanl
+    #twitter: jekyll
+    #github:  jekyll
     # rss: rss
-    dribbble: gyanl
+    #dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: gyanl
-    linkedin: gyanlakhwani
+    #instagram: jekyll
+    #linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
