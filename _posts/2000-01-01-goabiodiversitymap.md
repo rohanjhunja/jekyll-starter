@@ -3,7 +3,7 @@ layout: post
 title: goa biodiversity map
 subtitle: Centre for Environment Education
 tags: education
-thumbnail: 'https://gyanl.com/assets/thumbs/zomato.png'
+thumbnail: '{{site.baseurl}}/assets/goa3.jpg'
 published: true
 ---
 
