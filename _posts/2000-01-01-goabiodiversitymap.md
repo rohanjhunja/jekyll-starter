@@ -3,7 +3,7 @@ layout: post
 title: goa biodiversity map
 subtitle: Centre for Environment Education
 tags: education
-thumbnail: '{{site.baseurl}}/assets/goa3.jpg'
+thumbnail: 'https://rohanjhunja.github.io/jekyll-starter/assets/goa3.jpg'
 published: true
 ---
 
