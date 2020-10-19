@@ -1,0 +1,14 @@
+---
+published: false
+layout: post
+subtitle: hi
+tags: education
+thumbnail: 'https://rohanjhunja.github.io/jekyll-starter/assets/goa3.jpg'
+---
+# this is jambli
+
+![civet cat]({{site.baseurl}}/assets/animal4.png)
+
+## we are in pune
+
+hello
